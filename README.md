@@ -77,12 +77,4 @@ Example prediction on a new fire image.
 <img width="577" height="429" alt="image" src="https://github.com/user-attachments/assets/a1f73729-b46b-41df-a913-179e06a881d4" />
 
 
-##  Future Improvements
 
-* Use larger datasets.
-* Apply transfer learning (MobileNetV2, ResNet50, EfficientNet).
-* Implement real-time video fire detection.
-* Deploy the model as a web application.
-
-
-Deep Learning Course Final Project
