@@ -65,7 +65,8 @@ The model consists of:
 
 ##  Confusion Matrix
 
-<img width="729" height="579" alt="Screenshot 2026-06-01 191426" src="https://github.com/user-attachments/assets/f149645b-4a7e-4c39-bf57-9552ebca5f43" />
+<img width="856" height="598" alt="Screenshot 2026-05-31 000830" src="https://github.com/user-attachments/assets/cc41f0a1-7289-4553-90a6-b7f21a1fd797" />
+
 
 
 ##  Fire Detection Example
